@@ -1,9 +1,9 @@
-$name Example Map: Sagittarius 515
-$serverName Sagittarius 515
+$name Virgo 84
+$serverName Virgo 84
 $size 9000
 
 $overlay
-# 하루 팬티는 찢어졌는가 성스러운가
+# Virgo 84 하루 팬티는 찢어졌는가 성스러운가
 ## A second-level heading
 ### A third-level heading
 Normal text
@@ -26,33 +26,56 @@ $region
 (3832,4618)(2496,4741)(2497,4744)(4275,6080) 12 #c985036
 (4278,6082)(6816,4572)(4192,6674)(5507,3258) 13 #c873E2C
 
-$planet
-(1972,2974) large Korah
-(3472,5494) large Narfi
-(3915,3649) medium Celestial
-(5172,4814) large Grid
-(5692,6074) large Jade
-(6232,7354) large Fornjot
-(6852,3234) large Hymir
+$name My Map
+$serverName Virgo 84
+$size 9000
 
-(1932,3036)(1972,2974) small Kratos α
-(2138,2915)(1972,2974) small New Earth β
-(3269,5436)(3472,5494) small Kumar
-(3535,5550)(3472,5494) small Triangle Ring A
-(3651,5322)(3472,5494) small Nordrie
-(3752,3770)(3915,3649) small Pathfinder 19A
-(3961,3653)(3915,3649) small Emeral Heart
-(4023,3621)(3915,3649) small Mosoniel
-(4969,4756)(5172,4814) small Sedelina
-(5235,4870)(5172,4814) small Mormo
-(5351,4642)(5172,4814) small Moros
-(5652,6176)(5692,6074) small Heredma
-(5838,6025)(5692,6074) small Roc
-(6029,7296)(6232,7354) small Harza
-(6295,7410)(6232,7354) small Unicorn
-(6411,7182)(6232,7354) small Eternal Victory
-(6812,3296)(6852,3234) small Fafner
-(7018,3175)(6852,3234) small Pohjola
+
+$region
+(5003,3802)(3321,2851)(5610,3101)(2838,4696) 7 #c87372C 하루팬티는 찢어져 있다
+(4927,4483)(4653,6087)(4324,5779)(5398,3401) 8 #c694226 하루팬티는 성스럽다
+
+$planet
+(4499,4497) Virgo 84
+
+(2872,5254) large Orthrus
+(4152,4034) large 3499JM73
+(1212 3054) large Asherah
+(3672,8534) large Opel 
+(1292,6614) large Helblindi
+(7252,6334) large Neilo
+(8115,2009) large 4164DV61
+
+(1252,6676) small Wolf Eye
+(3469,8476) small Stheno
+(1458,6555) small Nessus β
+(8223, 1981) small Sobek
+(1391, 2882) small Pathfinder 19A
+(4298, 3985) small Heck
+(1275, 3110) small Loyalist
+(4112, 4136) small Nordrie
+(3851, 8362) small Griffin
+(8161, 2013) small Sudri
+(3735, 8590) small Strife
+(2832, 5316) small Scylla
+(7212, 6436) small Ostry
+(7398, 6285) small Westerly
+(3038, 5195) small Hypatia
+(1009, 2996) small Blue Crane
+(7952, 2130) small Hedrek
+
+
+$station
+(8530,4929) city 3 Koga
+(4096,3591)(4010,3571)(4130,3690) city 6 #c0077FF Meroe Volante
+(4090,3616) subCity 5 #c0077FF Belz
+(4082,3610) stronghold #c0077FF
+
+$base
+(5615,3555) #cF7C360
+(5625,3565) #c40C0C3
+(5635,3555) #c0077FF Player
+(5635,3545) #c0077FF プレイヤー
 
 $base
 (5615,3555) #cF7C360
